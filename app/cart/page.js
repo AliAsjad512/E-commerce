@@ -3,11 +3,11 @@
 import MainLayout from "../layouts/MainLayout"
 import SimilarProducts from "../components/SimilarProducts"
 import CartItem from "../components/CartItem"
-import { useCart } from "../context/cart"
-import { useEffect } from "react"
-import { useRouter } from "next/navigation"
-import useIsLoading from "../hooks/useIsLoading"
-import ClientOnly from "../components/ClientOnly"
+// import { useCart } from "../context/cart"
+// import { useEffect } from "react"
+// import { useRouter } from "next/navigation"
+// import useIsLoading from "../hooks/useIsLoading"
+// import ClientOnly from "../components/ClientOnly"
 
 export default function Cart() {
   
