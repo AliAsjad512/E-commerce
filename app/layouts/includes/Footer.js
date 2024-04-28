@@ -8,7 +8,7 @@ export default function Footer() {
                     <ul className="text-gray-700">
                         <li className="font-bold text-lg">Buy</li>
                         <li className="mt-2 py-1 text-xs hover:underline cursor-pointer">Registration</li>
-                        <li className="py-1 text-xs hover:underline cursor-pointer">eBay Money Back Guarantee</li>
+                        <li className="py-1 text-xs hover:underline cursor-pointer"> Money Back Guarantee</li>
                         <li className="py-1 text-xs hover:underline cursor-pointer">Bidding & buying help</li>
                         <li className="py-1 text-xs hover:underline cursor-pointer">Stores</li>
                     </ul>
@@ -21,7 +21,7 @@ export default function Footer() {
                     </ul>
 
                     <ul className="text-gray-700">
-                        <li className="font-bold text-lg">About eBay</li>
+                        <li className="font-bold text-lg">About Listed</li>
                         <li className="mt-2 py-1 text-xs hover:underline cursor-pointer">Company info</li>
                         <li className="py-1 text-xs hover:underline cursor-pointer">News</li>
                         <li className="py-1 text-xs hover:underline cursor-pointer">Investors</li>
@@ -40,7 +40,7 @@ export default function Footer() {
                     <ul className="text-gray-700">
                         <li className="font-bold text-lg">Buy</li>
                         <li className="mt-2 py-1 text-xs hover:underline cursor-pointer">Registration</li>
-                        <li className="py-1 text-xs hover:underline cursor-pointer">eBay Money Back Guarantee</li>
+                        <li className="py-1 text-xs hover:underline cursor-pointer">Listed Money Back Guarantee</li>
                         <li className="py-1 text-xs hover:underline cursor-pointer">Bidding & buying help</li>
                         <li className="py-1 text-xs hover:underline cursor-pointer">Stores</li>
                     </ul>
